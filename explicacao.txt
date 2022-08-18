@@ -1,0 +1,7 @@
+//CURD o que é o curd ?
+// C = criação R = leitura = U   D = delete
+
+//get solicita
+//post envia 
+//put enviando mais é uma atualização
+//delet deleta
