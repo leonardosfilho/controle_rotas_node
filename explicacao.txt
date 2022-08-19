@@ -1,7 +1,33 @@
-//CURD o que é o curd ?
-// C = criação R = leitura = U   D = delete
+//CRUD o que é o crud ?
+// C = criação R = leitura = U = update atualização  D = delete
 
-//get solicita
-//post envia 
-//put enviando mais é uma atualização
-//delet deleta
+métodos HTTP:
+get   //solicita
+post  //envia 
+put   //enviando mais é uma atualização
+delete //deleta
+trace  //
+options //
+connect  //
+patch   //
+
+protocolo http:
+
+arquitetura monolítica é um sistema único, não divido, rodando tudo num único lugar.
+
+
+arquitetura de microsserviços são serviços que podem ser lançados de forma independente e são modelados com base em domínio de negócios. (newman, 2022).
+
+dois tipos de uri indiftificador de endereço uniforme
+
+autenticação = usuario e senha
+autorozição = depois do login, nível de acesso.
+
+
+
+banco de dados relacionais:
+oracle database, postgresql
+sqlserver, mysql, firebird
+
+banco de dados não relacionais:
+mongoDB, cassandra,redis
